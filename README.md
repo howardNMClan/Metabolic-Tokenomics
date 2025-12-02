@@ -1,4 +1,4 @@
-# **“Metabolic Tokenomics: Designing On-Chain Systems That Burn, Store, and Use Energy Like Living Cells”**
+# **Metabolic Tokenomics: Designing On-Chain Systems That Burn, Store, and Use Energy Like Living Cells**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discipline-Metabolic%20Tokenomics-blueviolet?style=for-the-badge">

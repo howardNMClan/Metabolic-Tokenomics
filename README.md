@@ -38,7 +38,7 @@ For years, DeFi protocols have described themselves using biological metaphors:
 * “token burn”
 * “harvest rewards”
 * “ecosystems”
-
+ 
 But these analogies have rarely been formalized.
 
 Metabolism in biology is the sum of all chemical reactions that sustain life, divided into:

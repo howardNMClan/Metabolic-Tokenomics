@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Writing-Advanced-critical?style=for-the-badge">
 </p>
-
+ 
 *A Biological Framework for Understanding Token Flow, Incentive Energy, and the Metabolism of Decentralized Economies*
  
 ---

